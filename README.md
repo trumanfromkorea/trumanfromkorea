@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  자기소개😀😀
+  Application Developer Jaehoon Jang
 </p>
 
 <br>
@@ -22,6 +22,7 @@
   <br>
   <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white" />
   <img alt="github" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white" />
+  <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
   <br>
   
 </p>
