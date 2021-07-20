@@ -12,7 +12,7 @@
 <h3 align="center"> 💻 What I Do 💻 </h3>
 <p align="center">   
   <img alt="ReactNative" src="https://img.shields.io/badge/-React Native-000?style=flat-square&logo=react&logoColor=45b8d8" />
-  <img alt="JavaScript" src="http://img.shields.io/badge/-JavaScript-F6DF1C?style=flat-square&logo=javascript&logoColor=black"/>
+  <img alt="JavaScript" src="http://img.shields.io/badge/-JavaScript-F6DF1C?style=flat-square&logo=javascript&logoColor=#000000"/>
   <img alt="python" src="https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white" />
   <img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=Swift&logoColor=white" />
 
