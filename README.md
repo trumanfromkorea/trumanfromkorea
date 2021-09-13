@@ -2,7 +2,7 @@
   
 
 <div align="center">
-  안녕하세요👋 앱 개발자 장재훈입니다. <br>
+  안녕하세요👋 모바일 앱 개발자 장재훈입니다. <br>
   React-Native 개발환경을 주로 이용하고 있습니다! <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftrumanfromkorea&count_bg=%232B83FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%8C%90+HIT+ME+UP%21&edge_flat=false)](https://hits.seeyoufarm.com)
