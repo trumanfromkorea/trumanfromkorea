@@ -17,12 +17,6 @@
 <img alt="JavaScript" src="http://img.shields.io/badge/-JavaScript-F6DF1C?style=flat-square&logo=javascript&logoColor=black"/>
   <img alt="python" src="https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white" />
   <img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=Swift&logoColor=white" />
-
-<br>
-  
-  <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white" />
-  <img alt="github" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white" />
   
 
   <br>
