@@ -2,7 +2,7 @@
   
 
 <div align="center">
-  안녕하세요👋 주니어 앱 개발자 장재훈입니다. <br><br>
+  안녕하세요👋 주니어 개발자 장재훈입니다. <br><br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftrumanfromkorea&count_bg=%232B83FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%8C%90+HIT+ME+UP%21&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
@@ -32,8 +32,5 @@
   </a>
   <a href="https://www.instagram.com/trumanfromkorea/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/trumanfromkorea/"/>
-  </a>
-  <a href="https://trumanfromkorea.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-black?style=flat-square&logo=Tumblr&logoColor=white&link=https://trumanfromkorea.tistory.com/" />
   </a>
 </p>
