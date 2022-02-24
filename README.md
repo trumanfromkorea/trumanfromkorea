@@ -29,7 +29,7 @@
   <a href="mailto:trumanfromkorea@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=trumanfromkorea@gmail.com"/>
   </a>
-  <a href="https://www.instagram.com/trumanfromkorea/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/trumanfromkorea/"/>
+  <a href="https://trumanfromkorea.github.io/">
+  <img alt="github" src="https://img.shields.io/badge/-Git Blog-181717?style=flat-square&logo=Github&logoColor=white" />
   </a>
 </p>
