@@ -29,7 +29,12 @@
   <a href="mailto:trumanfromkorea@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=trumanfromkorea@gmail.com"/>
   </a>
+
   <a href="https://trumanfromkorea.github.io/">
-  <img alt="github" src="https://img.shields.io/badge/-Git Blog-181717?style=flat-square&logo=Github&logoColor=white" />
+  <img alt="github" src="https://img.shields.io/badge/-Blog-181717?style=flat-square&logo=Github&logoColor=white" />
+  </a>
+
+  <a href="https://trumanfromkorea.github.io/">
+  <img alt="notion" src="https://img.shields.io/badge/-Portfolio-181717?style=flat-square&logo=Notion&logoColor=white" />
   </a>
 </p>
