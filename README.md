@@ -34,7 +34,7 @@
   <img alt="github" src="https://img.shields.io/badge/-Blog-181717?style=flat-square&logo=Github&logoColor=white" />
   </a>
 
-  <a href="https://trumanfromkorea.github.io/">
+  <a href="https://flashy-face-f14.notion.site/53d70adf9109406aa9e533b88db1ac1e">
   <img alt="notion" src="https://img.shields.io/badge/-Portfolio-181717?style=flat-square&logo=Notion&logoColor=white" />
   </a>
 </p>
