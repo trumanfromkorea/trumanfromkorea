@@ -8,17 +8,20 @@
 
 <h3 align="center"> 💻 What I Do 💻 </h3>
 <p align="center">   
-  <img alt="ReactNative" src="https://img.shields.io/badge/-React Native-000?style=flat-square&logo=react&logoColor=45b8d8" />
-<img alt="Flutter" src="https://img.shields.io/badge/-Flutter-00A5FF?style=flat-square&logo=flutter&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+
+<img alt="IOS" src="https://img.shields.io/badge/-IOS-000?style=flat-square&logo=apple&logoColor=ffffff" />
+<img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=Swift&logoColor=white" />
+
   
 <br>
-<img alt="JavaScript" src="http://img.shields.io/badge/-JavaScript-F6DF1C?style=flat-square&logo=javascript&logoColor=black"/>
-  <img alt="python" src="https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white" />
-  <img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=Swift&logoColor=white" />
+<img alt="ReactNative" src="https://img.shields.io/badge/-React Native-000?style=flat-square&logo=react&logoColor=45b8d8" />
+<img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white" />
+
   
 
-  <br>
+<br>
+<img alt="Flutter" src="https://img.shields.io/badge/-Flutter-00A5FF?style=flat-square&logo=flutter&logoColor=white" />
+<img alt="Dart" src="https://img.shields.io/badge/-Dart-114b89?style=flat-square&logo=dart&logoColor=white" />
   
 </p>
 
