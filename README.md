@@ -37,11 +37,11 @@ iOS 네이티브 앱 개발을 학습하고 있습니다 :)
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=trumanfromkorea@gmail.com"/>
   </a>
 
-  <a href="https://trumanfromkorea.github.io/">
-  <img alt="github" src="https://img.shields.io/badge/-Blog-181717?style=flat-square&logo=Github&logoColor=white" />
+  <a href="https://trumanfromkorea.tistory.com/">
+  <img alt="github" src="https://img.shields.io/badge/-Blog-181717?style=flat-square&logoColor=white" />
   </a>
 
   <a href="https://trumanfromkorea.notion.site/53d70adf9109406aa9e533b88db1ac1e">
-  <img alt="notion" src="https://img.shields.io/badge/-Portfolio-181717?style=flat-square&logo=Notion&logoColor=white" />
+  <img alt="notion" src="https://img.shields.io/badge/-Portfolio-181717?style=flat-square&logoColor=white" />
   </a>
 </p>
