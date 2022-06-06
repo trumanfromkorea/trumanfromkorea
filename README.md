@@ -41,7 +41,7 @@ iOS 네이티브 앱 개발을 학습하고 있습니다 :)
   <img alt="github" src="https://img.shields.io/badge/-Blog-181717?style=flat-square&logoColor=white" />
   </a>
 
-  <a href="https://trumanfromkorea.notion.site/53d70adf9109406aa9e533b88db1ac1e">
+  <a href="https://trumanfromkorea.notion.site/aa699df09e5b4000825bdfd3b25302cd">
   <img alt="notion" src="https://img.shields.io/badge/-Portfolio-181717?style=flat-square&logoColor=white" />
   </a>
 </p>
