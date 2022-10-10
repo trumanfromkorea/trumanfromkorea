@@ -2,7 +2,7 @@
 
 ### 🙋🏻‍♂️ About Me
 - `Major in Software at Sejong Univ.`
-- `@Boostcamp Web・Mobile 7th (iOS)`
+- `Boostcamp Web・Mobile 7th (iOS)`
 
 ### 💻 Currently Studying ...
 
