@@ -12,7 +12,7 @@
 ### 📮 Contact
  <a href="mailto:trumanfromkorea@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=trumanfromkorea@gmail.com"/></a>
 <a href="https://trumanfromkorea.tistory.com/"><img alt="github" src="https://img.shields.io/badge/-Blog-181717?style=flat-square&logoColor=white" /></a>
-<a href="https://trumanfromkorea.notion.site/aa699df09e5b4000825bdfd3b25302cd"><img alt="notion" src="https://img.shields.io/badge/-Portfolio-181717?style=flat-square&logoColor=white" /></a>
+<a href="https://trumanfromkorea.notion.site/Jaehoon-Jang-61a20844c5de42ba834609d9b11ad0de"><img alt="notion" src="https://img.shields.io/badge/-Resume-181717?style=flat-square&logoColor=white" /></a>
 
 ---
 
