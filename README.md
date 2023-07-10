@@ -13,7 +13,3 @@
  <a href="mailto:trumanfromkorea@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=trumanfromkorea@gmail.com"/></a>
 <a href="https://trumanfromkorea.tistory.com/"><img alt="github" src="https://img.shields.io/badge/-Blog-181717?style=flat-square&logoColor=white" /></a>
 <a href="https://bit.ly/3lf1XMh"><img alt="notion" src="https://img.shields.io/badge/-Resume-181717?style=flat-square&logoColor=white" /></a>
-
----
-
-![Jaehoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=trumanfromkorea&show_icons=true&count_private=true)
